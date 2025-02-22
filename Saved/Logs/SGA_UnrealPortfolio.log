@@ -1643,3 +1643,25 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.22-17.19.05:850][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.22-17.19.05:850][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.22-17.19.05:850][ 60]AssetCheck: /Game/LPRiverForest/Maps/LPRiverForest_Demo 에셋 유효성 검사 중
+[2025.02.22-17.20.43:900][995]LogDerivedDataCache: C:/Users/chho8/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.22-17.20.43:914][995]LogSlate: Window '부모 클래스 선택' being destroyed
+[2025.02.22-17.20.43:924][995]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.22-17.20.43:930][995]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.22-17.20.43:950][996]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.22-17.20.49:127][617]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Test
+[2025.02.22-17.20.49:165][617]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.22-17.20.51:197][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.22-17.20.51:287][849]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.22-17.20.52:086][849]LogSavePackage: Moving output files for package: /Game/LPRiverForest/Maps/LPRiverForest_Demo
+[2025.02.22-17.20.52:086][849]LogSavePackage: Moving '../../../../../../Users/chho8/Documents/Unreal Projects/SGA_UE5_Portfolio/Saved/LPRiverForest_DemoE7974F5D48FB78104289A994C5ECFE16.tmp' to '../../../../../../Users/chho8/Documents/Unreal Projects/SGA_UE5_Portfolio/Content/LPRiverForest/Maps/LPRiverForest_Demo.umap'
+[2025.02.22-17.20.52:107][849]LogFileHelpers: Saving map 'LPRiverForest_Demo' took 0.859
+[2025.02.22-17.20.52:114][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 917.582 ms (total: 1.89 sec)
+[2025.02.22-17.20.52:165][849]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.22-17.20.52:165][849]LogContentValidation: Enabled validators:
+[2025.02.22-17.20.52:165][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.22-17.20.52:165][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.22-17.20.52:165][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.22-17.20.52:165][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.22-17.20.52:165][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.22-17.20.52:165][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.22-17.20.52:165][849]AssetCheck: /Game/LPRiverForest/Maps/LPRiverForest_Demo 에셋 유효성 검사 중
