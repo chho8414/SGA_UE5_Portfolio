@@ -1701,3 +1701,49 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2025.02.24-17.44.45:275][384]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.24-17.44.45:275][384]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.24-17.44.45:276][384]AssetCheck: /Game/LPRiverForest/Maps/LPRiverForest_Demo 에셋 유효성 검사 중
+[2025.02.24-17.46.06:509][768]LogDerivedDataCache: C:/Users/chho8/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.24-17.47.32:920][103]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.02.24-17.47.48:532][823]LogContentBrowser: Deferred new asset folder creation: 새 폴더
+[2025.02.24-17.47.48:540][823]LogContentBrowser: Creating deferred item: 새 폴더
+[2025.02.24-17.47.48:550][824]LogContentBrowser: Renaming the item being created (Deferred Item: 새 폴더).
+[2025.02.24-17.48.05:623][823]LogContentBrowser: Attempting asset rename: 새 폴더 -> Test
+[2025.02.24-17.48.05:623][823]LogContentBrowser: End creating deferred item 새 폴더
+[2025.02.24-17.48.10:578][371]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.02.24-17.48.10:586][371]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.02.24-17.48.10:621][373]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.02.24-17.48.13:343][689]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.02.24-17.48.13:347][689]LogContentBrowser: End creating deferred item NewMaterial
+[2025.02.24-17.48.13:352][689]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.02.24-17.48.16:133][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-17.48.16:224][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.02.24-17.48.17:091][  3]LogSavePackage: Moving output files for package: /Game/LPRiverForest/Maps/LPRiverForest_Demo
+[2025.02.24-17.48.17:092][  3]LogSavePackage: Moving '../../../../../../Users/chho8/Documents/Unreal Projects/SGA_UE5_Portfolio/Saved/LPRiverForest_Demo6B47B1BD475203E87A9BA1B382DE88C9.tmp' to '../../../../../../Users/chho8/Documents/Unreal Projects/SGA_UE5_Portfolio/Content/LPRiverForest/Maps/LPRiverForest_Demo.umap'
+[2025.02.24-17.48.17:113][  3]LogFileHelpers: Saving map 'LPRiverForest_Demo' took 0.931
+[2025.02.24-17.48.17:120][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 987.130 ms (total: 1.94 sec)
+[2025.02.24-17.48.17:190][  3]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.24-17.48.17:190][  3]LogContentValidation: Enabled validators:
+[2025.02.24-17.48.17:190][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.24-17.48.17:190][  3]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.24-17.48.17:190][  3]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.24-17.48.17:190][  3]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.24-17.48.17:190][  3]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.24-17.48.17:190][  3]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.24-17.48.17:191][  3]AssetCheck: /Game/LPRiverForest/Maps/LPRiverForest_Demo 에셋 유효성 검사 중
+[2025.02.24-17.48.23:334][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.24-17.48.23:338][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.24-17.48.23:385][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Test/NewMaterial] ([1] browsable assets)...
+[2025.02.24-17.48.23:421][704]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Test/NewMaterial.NewMaterial]
+[2025.02.24-17.48.23:421][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/Test/NewMaterial]
+[2025.02.24-17.48.23:421][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test/NewMaterial" FILE="../../../../../../Users/chho8/Documents/Unreal Projects/SGA_UE5_Portfolio/Content/Test/NewMaterial.uasset" SILENT=true
+[2025.02.24-17.48.23:423][704]LogSavePackage: Moving output files for package: /Game/Test/NewMaterial
+[2025.02.24-17.48.23:423][704]LogSavePackage: Moving '../../../../../../Users/chho8/Documents/Unreal Projects/SGA_UE5_Portfolio/Saved/NewMaterialBEB61E284CFB2923E9F2C99884CE5CA0.tmp' to '../../../../../../Users/chho8/Documents/Unreal Projects/SGA_UE5_Portfolio/Content/Test/NewMaterial.uasset'
+[2025.02.24-17.48.23:430][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.249 ms (total: 2.03 sec)
+[2025.02.24-17.48.23:509][704]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.24-17.48.23:509][704]LogContentValidation: Enabled validators:
+[2025.02.24-17.48.23:509][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.24-17.48.23:509][704]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.24-17.48.23:509][704]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.24-17.48.23:509][704]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.24-17.48.23:509][704]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.24-17.48.23:509][704]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.24-17.48.23:509][704]AssetCheck: /Game/Test/NewMaterial 에셋 유효성 검사 중
